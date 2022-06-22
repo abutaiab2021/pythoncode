@@ -6,3 +6,11 @@ def return_none():
 
 x = return_none()
 print(x)
+
+
+def intro():  
+  '''
+  This function prints Hello Joseph 
+    '''
+  print("Hi Joseph")              
+intro()  
